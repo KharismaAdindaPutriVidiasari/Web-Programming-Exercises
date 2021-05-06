@@ -26,4 +26,4 @@ Pada project kali ini, dibuat web game matematika sederhana. Pada tampilan awal 
 
 <br>
 
-## Link Website : http://kharismaapv.epizy.com/
+## Link Website : http://kharismaapv.epizy.com/index.php
